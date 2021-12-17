@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hans-zirngast
+- 👀 I’m interested in exciting code
+- 🌱 I’m into lifelong learning
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me: Coding/Programming related: Here 
